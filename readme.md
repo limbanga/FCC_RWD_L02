@@ -14,5 +14,5 @@ I have practiced this exercise to learn HTML and CSS.
 
 Just a simple HTML, CSS code.
 
-1. Clone [this repo]()
+1. Clone [this repo](https://github.com/limbanga/FCC_RWD_L02)
 2. Open index.html
